@@ -1,4 +1,4 @@
-# Find and Download Music on Youtube
+# Find and Download Videos on Youtube
 # import libraries
 
 from pytube import YouTube
